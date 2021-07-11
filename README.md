@@ -2,7 +2,9 @@
 Soy programador JavaScript, aprendiendo PHP, y Java.
 Actualmente estoy trabajando en CakeUwU un bot de discord multifuncional con handler puedes encontrar mas informacion [aqui](https://discord.gg/2h7JrfNm).
 
-Si quieres contactarme, estoy en discord como ! $.IlaiIdkUwU#0827
+Si quieres contactarme, estoy en discord como Ilai#0827
+
+Fun fact: No me se las tablas de multiplicar xd
 <!--
 **ilaicraftYT/ilaicraftYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
