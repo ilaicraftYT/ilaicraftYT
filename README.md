@@ -28,4 +28,8 @@
 <h3>Code time!</h3>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 5 mins    █████████████████████▒░░░   85.51 % 
+Bash         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
 <!--END_SECTION:waka-->
