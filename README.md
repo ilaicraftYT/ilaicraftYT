@@ -24,3 +24,8 @@
 <h3 align="left">Statics</h3>
 
 [![Statics](https://github-readme-stats.vercel.app/api?username=IlaicraftYT&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)]
+
+<h3>Code time!</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
