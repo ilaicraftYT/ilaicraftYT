@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ilaicraft" target="blank"><img src="https://img.shields.io/twitter/follow/ilaicraft?logo=twitter&style=for-the-badge" alt="ilaicraft" /></a> </p>
 
-- 🔭 I’m currently working on **JellyBot**
+- 🔭 I’m currently working on **MyServer**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **JavaScript**
 
