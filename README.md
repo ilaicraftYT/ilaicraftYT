@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **rubencitoperez569@gmail.com**
+- 📫 How to reach me **ilai#0827 on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
