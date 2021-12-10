@@ -5,13 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/ilaicraft" target="blank"><img src="https://img.shields.io/twitter/follow/ilaicraft?logo=twitter&style=for-the-badge" alt="ilaicraft" /></a> </p>
 
-- 🔭 I’m currently working on **MyServer**
+```js
+const ilai = {
+  name: "Ilai",
+  country: new Country("Mexico"),
+  yearsOld: 15,
+  languages: ["Spanish", "English"],
+  workingOn: "MyServer",
+  learning: "PHP",
+  askMeAbout: "JavaScript",
+  reachMe: new DiscordUser("ilai#0827"),
+  hobbys: ["programming", "play games"]
+}
 
-- 🌱 I’m currently learning **PHP**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **ilai#0827 on discord**
+world.people.push(ilai)
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
