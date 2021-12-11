@@ -10,6 +10,7 @@ const ilai = {
   name: "Ilai",
   country: new Country("Mexico"),
   yearsOld: 15,
+  hireable: true,
   languages: ["Spanish", "English"],
   workingOn: "MyServer",
   learning: "PHP",
