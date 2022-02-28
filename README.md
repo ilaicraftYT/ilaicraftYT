@@ -39,11 +39,10 @@ world.people.push(ilai)
 <h3>Code time!</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   13 hrs 57 mins  ███████████████████████▓░   94.53 % 
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+JavaScript   10 hrs 35 mins  ███████████████████████▓░   95.29 %
+Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
+
 <!--END_SECTION:waka-->
