@@ -12,7 +12,7 @@ const ilai = {
   yearsOld: 15,
   hireable: true,
   languages: ["Spanish", "English"],
-  workingOn: "MyServer",
+  workingOn: ["ListedDC", "Bolt", "StarNet"][Math.floor(Math.random() * 3))],
   learning: "PHP",
   askMeAbout: "JavaScript",
   reachMe: new DiscordUser("ilai#0827"),
