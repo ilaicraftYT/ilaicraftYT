@@ -41,8 +41,7 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```text
-C++    2 hrs           ████████████████████████▓   98.80 %
-JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+C++   1 hr 5 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
