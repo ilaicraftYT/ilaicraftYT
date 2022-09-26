@@ -41,10 +41,7 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   28 mins         █████████████████████░░░░   84.31 %
-Bash         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
