@@ -35,6 +35,7 @@ world.people.push(ilai)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IlaicraftYT&show_icons=true&theme=dark&count_private=tru&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlaicraftYT&show_icons=true&theme=dark&count_private=true&layout=compact" />
 </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilaicraftYT&theme=vue-dark&border=DD272700)](https://git.io/streak-stats)
 
 <h3>Code time!</h3>
 
