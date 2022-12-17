@@ -43,9 +43,7 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```text
-PHP    1 hr 28 mins    ████████████████████████░   95.83 %
-JSON   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
