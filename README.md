@@ -43,7 +43,8 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript            40 mins         ███████████████████▓░░░░░   78.25 %
+Sublime Text Config   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
 ```
 
 <!--END_SECTION:waka-->
