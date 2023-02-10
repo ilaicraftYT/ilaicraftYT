@@ -43,8 +43,11 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript            1 hr 9 mins     █████████████████████░░░░   83.75 %
-Sublime Text Config   13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+JavaScript            1 hr 24 mins    █████████████▒░░░░░░░░░░░   53.94 %
+TypeScript            30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+CSS                   23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Sublime Text Config   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+JSON                  4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
