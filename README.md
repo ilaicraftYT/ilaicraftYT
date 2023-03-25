@@ -47,3 +47,5 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+(I have been doing a lot of coding this month, but for some reason Wakatime doesn't recognize it)
