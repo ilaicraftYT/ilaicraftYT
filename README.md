@@ -12,10 +12,10 @@ const ilai = {
   yearsOld: 15,
   hireable: true,
   languages: ["Spanish", "English"],
-  workingOn: ["ListedDC", "Bolt", "StarNet"][Math.floor(Math.random() * 3))],
+  workingOn: ["AskHub", "StarNet"][Math.floor(Math.random() * 3))],
   learning: "PHP",
   askMeAbout: "JavaScript",
-  reachMe: new DiscordUser("ilai#0827"),
+  reachMe: new DiscordUser("@soyilai"),
   hobbys: ["programming", "play games"]
 }
 
@@ -47,5 +47,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-(I have been doing a lot of coding this month, but for some reason Wakatime doesn't recognize it)
