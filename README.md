@@ -43,9 +43,11 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   34 mins         ███████████████████████░░   92.28 %
-Ezhil        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TypeScript   52 mins         ██████████████████████▓░░   90.70 %
+Ezhil        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
