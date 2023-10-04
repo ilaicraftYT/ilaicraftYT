@@ -43,11 +43,11 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       3 hrs 38 mins   ██████████████▓░░░░░░░░░░   58.48 %
-TypeScript   56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-Astro        47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-JavaScript   33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Svelte       3 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.03 %
+JavaScript   3 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.71 %
+Astro        47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+TypeScript   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
