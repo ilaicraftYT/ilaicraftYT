@@ -43,9 +43,8 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 35 mins    █████████████████████▓░░░   87.12 %
-CSS          13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript   1 hr            ████████████████████▒░░░░   81.80 %
+CSS          13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
 ```
 
 <!--END_SECTION:waka-->
