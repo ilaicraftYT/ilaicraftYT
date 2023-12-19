@@ -43,11 +43,11 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 29 mins   █████████████████████░░░░   83.38 %
-JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Prisma       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript   3 hrs 2 mins    ████████████████████▒░░░░   81.33 %
+JSON         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Prisma       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Bash         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
