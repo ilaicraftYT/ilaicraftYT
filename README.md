@@ -43,11 +43,11 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```txt
-Go                7 hrs 21 mins   ███████████████████████▒░   93.12 %
-TypeScript        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-TOML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Go                7 hrs 21 mins   ███████████████████████▒░   93.75 %
+TypeScript        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+TOML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Git Config        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+YAML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
