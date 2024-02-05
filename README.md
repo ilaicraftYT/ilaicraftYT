@@ -9,14 +9,15 @@
 const ilai = {
   name: "Ilai",
   country: new Country("Mexico"),
-  yearsOld: 15,
+  yearsOld: 13,
   hireable: true,
   languages: ["Spanish", "English"],
-  workingOn: ["AskHub", "StarNet"][Math.floor(Math.random() * 3))],
-  learning: "PHP",
+  workingOn: ["LearnStack", "OpenWars"][Math.floor(Math.random() * 2))],
+  learning: "C++",
   askMeAbout: "JavaScript",
   reachMe: new DiscordUser("@soyilai"),
-  hobbys: ["programming", "play games"]
+  hobbys: ["programming", "play games"],
+  portfolio: "https://ilai.starnetworkmc.tk"
 }
 
 world.people.push(ilai)
