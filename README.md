@@ -44,11 +44,11 @@ world.people.push(ilai)
 <!--START_SECTION:waka-->
 
 ```txt
-C++          2 hrs 57 mins   ██████████████▒░░░░░░░░░░   57.71 %
-TypeScript   1 hr 57 mins    █████████▓░░░░░░░░░░░░░░░   38.20 %
-TSConfig     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C++          2 hrs 30 mins   █████████████▓░░░░░░░░░░░   54.01 %
+TypeScript   1 hr 57 mins    ██████████▓░░░░░░░░░░░░░░   42.10 %
+TSConfig     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
