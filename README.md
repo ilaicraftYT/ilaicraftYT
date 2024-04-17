@@ -17,5 +17,5 @@ I have experience in lots of technologies and continue learning next-gen framewo
 
 **📊 Statics:**<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilai&show_icons=true&theme=github_dark&count_private=true&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilai&show_icons=true&theme=github_dark&layout=compact&hide_border=true" />
 </a>
