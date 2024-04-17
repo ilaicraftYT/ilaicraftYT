@@ -19,14 +19,3 @@ I have experience in lots of technologies and continue learning next-gen framewo
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilai&show_icons=true&theme=github_dark&count_private=true&layout=compact&hide_border=true" />
 </a>
-<!--START_SECTION:waka-->
-
-```txt
-Svelte       1 hr 38 mins    ████████████████░░░░░░░░░   64.17 %
-TypeScript   33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-CSS          15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
-<!--END_SECTION:waka-->
