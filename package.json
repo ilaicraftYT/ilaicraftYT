@@ -1,0 +1,14 @@
+{
+  "name": "github-rss",
+  "version": "1.0.0",
+  "description": "<h1>Hi! 👋</h1> <h3>I'm Ilai, a full-stack web developer.</h4>",
+  "main": "updatePosts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilai",
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
