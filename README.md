@@ -13,7 +13,10 @@ I have experience in lots of technologies and continue learning next-gen framewo
 * Email: <a href="mailto:soyilai@proton.me">`soyilai@proton.me`</a>
 * Portfolio: https://soyilai.vercel.app/
 
-**📑 Latest Blog Posts:** Coming soon!
+**📑 Latest Blog Posts:**
+
+<!--feedstart--->
+<!--feedend--->
 
 **📊 Statics:**<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
