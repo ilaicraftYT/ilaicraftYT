@@ -16,6 +16,7 @@ I have experience in lots of technologies and continue learning next-gen framewo
 **📑 Latest Blog Posts:**
 
 <!--feedstart--->
+<ul><li><a href="https://soyilai.vercel.app/blog/anothertest">Why this?</a></li>Yet another test<li><a href="https://soyilai.vercel.app/blog/test">Testing</a></li>This is a test</ul>
 <!--feedend--->
 
 **📊 Statics:**<br/>
