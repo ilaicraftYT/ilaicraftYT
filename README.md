@@ -11,7 +11,7 @@ I have experience in lots of technologies and continue learning next-gen framewo
 * Discord: `@soyilai`
 * Telegram [`@soyilai`](https://t.me/soyilai)
 * Email: <a href="mailto:soyilai@proton.me">`soyilai@proton.me`</a>
-* Portfolio: https://soyilai.vercel.app/
+* Portfolio: https://ilai.chimoteam.eu.org
 
 **📑 Latest Blog Posts:**
 
